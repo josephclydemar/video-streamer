@@ -1,2 +1,2 @@
 # Video Streamer
-### An Video Streaming application in TypeScript
+### A Video Streaming application in TypeScript
